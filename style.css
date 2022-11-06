@@ -39,6 +39,7 @@ nav ul li a:hover{
     font-size: 50px;
     color: #212121;
     margin-bottom: 20px;
+    max-width: 595px;
 }
 span{
     color: orange;
